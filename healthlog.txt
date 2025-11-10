@@ -1,0 +1,74 @@
+============================================
+ System Health Report - 2025-11-08 12:41:11
+============================================
+Date & Time: Sat Nov  8 12:41:11 IST 2025
+Uptime:
+CPU Load:
+10.0814503226575
+Memory Usage (MB):
+
+TotalVisibleMemorySize FreePhysicalMemory
+---------------------- ------------------
+               8190248            1269264
+
+
+Disk Usage:
+
+Name        Used         Free
+----        ----         ----
+C    87592431616 167510376448
+
+
+Top 5 Memory-Consuming Processes:
+
+Name                  Id CPU                WS
+----                  -- ---                --
+Memory Compression  3408             691875840
+explorer            8240 1396.921875 380936192
+Code               27556 10.046875   320487424
+chrome             13176 108.59375   313077760
+Code                6056 32.515625   241631232
+
+
+Service Status:
+Service nginx not found
+Service sshd not found
+--------------------------------------------
+
+============================================
+ System Health Report - 2025-11-08 12:43:50
+============================================
+Date & Time: Sat Nov  8 12:43:51 IST 2025
+Uptime:
+CPU Load:
+42.0998053253702
+Memory Usage (MB):
+
+TotalVisibleMemorySize FreePhysicalMemory
+---------------------- ------------------
+               8190248            1332772
+
+
+Disk Usage:
+
+Name        Used         Free
+----        ----         ----
+C    87594262528 167508545536
+
+
+Top 5 Memory-Consuming Processes:
+
+Name                  Id CPU               WS
+----                  -- ---               --
+Memory Compression  3408            669630464
+explorer            8240 1412.59375 381452288
+chrome             13176 112.890625 332279808
+Code               27556 10.125     320692224
+Code                6056 43.140625  255463424
+
+
+Service Status:
+Service nginx not found
+Service sshd not found
+--------------------------------------------
+
